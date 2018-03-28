@@ -1,4 +1,4 @@
-/*
+
 buildscript {
     repositories {
         mavenCentral()
@@ -7,7 +7,6 @@ buildscript {
         classpath 'com.google.gms:google-services:3.1.0'
     }
 }
-*/
 repositories {
     mavenCentral()
     maven {
